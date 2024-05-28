@@ -1,0 +1,9 @@
+App -
+    Basic component that handles every other component
+    
+Game - 
+    Handles all the lights, determines how many lights, the logic of turning the lights off and on, etc
+    
+Light -
+    Each individual light
+    
